@@ -1,6 +1,13 @@
 {
     "name": "Test Project",
-    "version": "v1.0.0",
+    "version": "1.0.0",
+    "description": "Where I learn JS",
+    "main": "server.js",
+    "scripts": {
+        "start": "node server.js"
+    },
+    "author": "Max Kelly",
+    "license": "ISC",
     "dependencies": {
         "mongodb": "*"
     }
