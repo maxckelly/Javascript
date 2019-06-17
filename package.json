@@ -1,0 +1,7 @@
+{
+    "name": "Test Project",
+    "version": "v1.0.0",
+    "dependencies": {
+        "mongodb": "*"
+    }
+}
