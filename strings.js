@@ -17,7 +17,7 @@ let location = city + ' ' + country;
 //----------------------------------------------//
 let work = 'TLA';
 let age = 21;
-
+let goal = "I want to be successful in my own way";
 
 
 
