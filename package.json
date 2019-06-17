@@ -9,6 +9,6 @@
     "author": "Max Kelly",
     "license": "ISC",
     "dependencies": {
-        "mongodb": "*"
+        "express": "^4.16.3",
     }
 }
